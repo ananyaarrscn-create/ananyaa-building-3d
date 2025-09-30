@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by 3D City Database Importer/Exporter, version "5.5.2" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Project1_AnanyaaM- cityGML 2</name>
+    <open>true</open>
+    <LookAt>
+      <longitude>-91.925128799788</longitude>
+      <latitude>41.42915873832939</latitude>
+      <altitude>0.0</altitude>
+      <heading>0.0</heading>
+      <tilt>60.0</tilt>
+      <range>970.0</range>
+    </LookAt>
+    <Folder>
+      <name>Project1_AnanyaaM- cityGML 2_Tile_0_0</name>
+      <NetworkLink>
+        <name>Display as collada</name>
+        <Region>
+          <LatLonAltBox>
+            <north>41.42922416896967</north>
+            <south>41.42909330768912</south>
+            <east>-91.92498527732843</east>
+            <west>-91.92527232224757</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>0.0</minLodPixels>
+            <maxLodPixels>-1.0</maxLodPixels>
+          </Lod>
+        </Region>
+        <Link>
+          <href>Tiles/0/0/Project1_AnanyaaM- cityGML 2_Tile_0_0_collada.kml</href>
+          <viewRefreshMode>onRegion</viewRefreshMode>
+          <viewFormat/>
+        </Link>
+      </NetworkLink>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"layername": "Project1_AnanyaaM- cityGML 2",
+	"fileextension": ".kml",
+	"displayform": "collada",
+	"minLodPixels": 0,
+	"maxLodPixels": -1,
+	"colnum": 1,
+	"rownum": 1,
+	"bbox":{ 
+		"xmin": -91.92527232224757,
+		"xmax": -91.92498527732843,
+		"ymin": 41.42909330768912,
+		"ymax": 41.42922416896967
+	}
+}
