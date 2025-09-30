@@ -6,8 +6,8 @@
     <name>Project1_AnanyaaM- cityGML 2</name>
     <open>true</open>
     <LookAt>
-      <longitude>-91.925128799788</longitude>
-      <latitude>41.42915873832939</latitude>
+      <longitude>77.22499</longitude>
+      <latitude>28.55764</latitude>
       <altitude>0.0</altitude>
       <heading>0.0</heading>
       <tilt>60.0</tilt>
@@ -19,10 +19,10 @@
         <name>Display as collada</name>
         <Region>
           <LatLonAltBox>
-            <north>41.42922416896967</north>
-            <south>41.42909330768912</south>
-            <east>-91.92498527732843</east>
-            <west>-91.92527232224757</west>
+            <north>28.55814</north>
+            <south>28.55714</south>
+            <east>77.22549</east>
+            <west>77.22449</west>
           </LatLonAltBox>
           <Lod>
             <minLodPixels>0.0</minLodPixels>
